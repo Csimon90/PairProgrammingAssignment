@@ -23,6 +23,7 @@ namespace Adventure
             Console.WriteLine("As you read the last line the scroll burst to flame and leaves nothing but ash and a whisper of smoke.");
             Console.WriteLine("You turn your attention to the objects before you.");
             Console.WriteLine("What do you choose?");
+            Console.WriteLine("         The Sword, The Bow, or the Wand.");
             Console.ReadKey();
         }
     }
