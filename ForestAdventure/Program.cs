@@ -24,7 +24,15 @@ namespace Adventure
             Console.WriteLine("You turn your attention to the objects before you.");
             Console.WriteLine("What do you choose?");
             Console.WriteLine("         The Sword, The Bow, or the Wand.");
-            //from here User will type in choice. console will open associated project file for objects related storyline and enemies.
-            
+            //from here User will type in choice. console will open associated project file for objects related storyline and enemies. Terminal reads back following on all three options these will need to be cut and pasted in all three files.
+
+            Console.WriteLine("You pray you've made the right decision, upon picking up your choice the other two disappear.");
+            Console.WriteLine("Just as the scroll before them.");
+            Console.WriteLine("With great shaking and rumbling a path opens up in the woods as the trees pop and groan to bend around it.");
+            Console.WriteLine("The path is dark. There is no way to know where it leads but you have no other options.");
+            Console.WriteLine("You take a breath. Steady your courage and make for the path.");
+        Console.ReadKey();
+        }
+    }
 }
 
