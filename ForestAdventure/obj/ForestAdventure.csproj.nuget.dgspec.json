@@ -1,22 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lilly\\Desktop\\ElevenFiftyAssignments\\PairProgramingAssingment\\ForestAdventure\\ForestAdventure.csproj": {}
+    "C:\\efa160\\codingFoundations\\assignments\\PairProgrammingAssignment\\ForestAdventure\\ForestAdventure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lilly\\Desktop\\ElevenFiftyAssignments\\PairProgramingAssingment\\ForestAdventure\\ForestAdventure.csproj": {
+    "C:\\efa160\\codingFoundations\\assignments\\PairProgrammingAssignment\\ForestAdventure\\ForestAdventure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lilly\\Desktop\\ElevenFiftyAssignments\\PairProgramingAssingment\\ForestAdventure\\ForestAdventure.csproj",
+        "projectUniqueName": "C:\\efa160\\codingFoundations\\assignments\\PairProgrammingAssignment\\ForestAdventure\\ForestAdventure.csproj",
         "projectName": "ForestAdventure",
-        "projectPath": "C:\\Users\\lilly\\Desktop\\ElevenFiftyAssignments\\PairProgramingAssingment\\ForestAdventure\\ForestAdventure.csproj",
-        "packagesPath": "C:\\Users\\lilly\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lilly\\Desktop\\ElevenFiftyAssignments\\PairProgramingAssingment\\ForestAdventure\\obj\\",
+        "projectPath": "C:\\efa160\\codingFoundations\\assignments\\PairProgrammingAssignment\\ForestAdventure\\ForestAdventure.csproj",
+        "packagesPath": "C:\\Users\\Caitlin\\.nuget\\packages\\",
+        "outputPath": "C:\\efa160\\codingFoundations\\assignments\\PairProgrammingAssignment\\ForestAdventure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lilly\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Caitlin\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
-        "originalTargetFrameworks": ["net6.0"],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
         "sources": {
           "https://api.nuget.org/v3/index.json": {}
         },
@@ -27,7 +29,9 @@
           }
         },
         "warningProperties": {
-          "warnAsError": ["NU1605"]
+          "warnAsError": [
+            "NU1605"
+          ]
         }
       },
       "frameworks": {
@@ -49,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
