@@ -24,6 +24,7 @@ namespace ForestAdventure
             Console.WriteLine("What do you choose?");
             Console.WriteLine("         The Sword, The Bow, or the Wand?");
 
+            //allows for user input to be read and stored
             WeaponChoice = Console.ReadLine();
 
             Console.WriteLine("You pick up " + WeaponChoice + ". You pray you've made the right decision,");
