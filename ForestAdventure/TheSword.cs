@@ -24,7 +24,7 @@ System.Console.WriteLine("You pick up " + WeaponChoice + " and notice that the b
 
             //if REACH IN "What great fortune! You have found a stone for sharpening your blade. 
             //would you like to use stone now? y= The edge on the blade is razor sharp and not a speck of damage insight! n= maybe you hit your head a little harder than you thought, huh champ?
-            //if WALK ON " you eye the tree nervously while flexing your hand. You decide a hand attached is worth two not... maybe thats not how it goes?
+            //if WALK ON " you eye the tree nervously while flexing your hand. You decide a hand attached is worth two in the bush... maybe thats not how it goes?
             //! Suggested respawn if  not full restart
             Console.WriteLine("You pick the pace up back up and continue down the darkened path. After a while you feel the hair on the back of your neck begin to stand and just as you go to turn around you are struck on the back of your leg. Taking you to a kneel. 'That's right bow you fool! For I am the Goblin Gilgamere and you shall not make it out of here!");
             Console.WriteLine ("do you FIGHT or do you FLEE?");

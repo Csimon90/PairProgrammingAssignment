@@ -3,14 +3,14 @@ using System;
 
 namespace ForestAdventure
 {
-    class TheSword
+    class TheBow
     {
         
         static void Main()
         {
             string WeaponChoice = " The Sword, The Bow, The Wand";
 
-System.Console.WriteLine("You pick up " + WeaponChoice + " and notice that the blade had seen action before.");
+System.Console.WriteLine("You pick up " + WeaponChoice + " and notice that the bow had seen action before.");
             Console.WriteLine("Without arrow you may as well have picked a sturdy stick. You pray you've made the right decision,");
             Console.WriteLine("upon picking up your choice the other two disappear.");
             Console.WriteLine("Just as the scroll before them.");
