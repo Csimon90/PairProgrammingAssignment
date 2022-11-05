@@ -88,8 +88,10 @@ System.Console.WriteLine("You pick up " + WeaponChoice + " and notice that the b
 
             //if LAY Console.WriteLine("Ready our reinforcements, send word to our allies, and set the bait!");
 
-            //tada game play THE SWORD finished.
-            
+            //tada game play THE BOW finished.
+
+
+                   Console.ReadKey(); 
         }
     }
 }

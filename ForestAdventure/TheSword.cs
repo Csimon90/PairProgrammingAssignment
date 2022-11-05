@@ -93,7 +93,7 @@ System.Console.WriteLine("You pick up " + WeaponChoice + " and notice that the b
 
 
 
-
+        Console.ReadKey();
 
 
         }
