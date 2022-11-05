@@ -56,7 +56,7 @@ System.Console.WriteLine("You pick up " + WeaponChoice + " and notice that the b
             //if PASS 
 
             Console.WriteLine("You stand and stretch your sore muscles into places. You turn around to find your self nose to belly with an 10-foot tall, 800 pound, super funky smelling bear with glowing green eyes. In your panic you notice one side of its head dented in at a funny angle. You now realized what brought down such a large tree limb. And if your not careful it will bring down you too.");
-            Console.WriteLine("Before you can make your next move the bear begins to speak. 'To think your people call your a King! HA! When it was soooo easy to take you off your steed with a single blow?! I figured why waste my time when even the carcass of this ratty old bear will do!'");
+            Console.WriteLine("Before you can make your next move the bear begins to speak. 'To think your people call you a King! HA! When it was soooo easy to take you off your steed with a single blow?! I figured why waste my time when even the carcass of this ratty old bear will do!'");
             Console.WriteLine("Shrill laughter fills the air as one of the undead bear's massive paws tipped with near daggers comes swinging toward you! You only have seconds! Do you FIGHT or PLAY-DEAD?");
 
             /*if PLAY-DEAD             Console.WriteLine("Play dead. Nah man, you like dead, dead. That is a haunted possessed zombie bear that is being controlled by an unseen person.... Did I mention Head Trauma? Cause I'm pretty sure I mentioned Head Trauma. Terrible choice bro. Like I wanna feel bad for you. But I don't.")
