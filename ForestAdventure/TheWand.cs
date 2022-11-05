@@ -3,7 +3,7 @@ using System;
 
 namespace ForestAdventure
 {
-    class TheSword
+    class TheWand
     {
         
         static void Main()
