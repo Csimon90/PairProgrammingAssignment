@@ -27,6 +27,8 @@ namespace ForestAdventure
             //allows for user input to be read and stored
             WeaponChoice = Console.ReadLine();
 
+            //WEAPON CHOICE OPENS RELATED STORY LINE WEAPON.CS 
+
 
 
 
